@@ -10,7 +10,7 @@
 
 ### Features
 
-- tailwindcss 2.0
+- tailwindcss 3
 - typescript
 - basic layout components with header, body, footer
 - api route template
