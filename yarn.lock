@@ -1972,10 +1972,10 @@ next-compose-plugins@^2.2.1:
   resolved "https://registry.yarnpkg.com/next-compose-plugins/-/next-compose-plugins-2.2.1.tgz#020fc53f275a7e719d62521bef4300fbb6fde5ab"
   integrity sha512-OjJ+fV15FXO2uQXQagLD4C0abYErBjyjE0I0FHpOEIB8upw0hg1ldFP6cqHTJBH1cZqy96OeR3u1dJ+Ez2D4Bg==
 
-next-plugin-svgr@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/next-plugin-svgr/-/next-plugin-svgr-1.1.1.tgz#d0d27ce1a06150264e3e314334406a5bd21563d4"
-  integrity sha512-F2wxx4I/rVHF+7oR3vNiglMq/n1xdolmyGPjDzVlUBY67uR6ZSrpDgTinO50XpwPWv7RpGXow6Dk8VcyEq99IA==
+next-plugin-svgr@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/next-plugin-svgr/-/next-plugin-svgr-1.1.2.tgz#993d02b2f365ad7191188ead78b54964986402fe"
+  integrity sha512-26HNVpgMbdhevepxejK/Lq3NH4WkmQbhcI+wW0zDTkF2AZj5c/w8Y06phWF7HkfD4bAMjqd9+ofh4TWhkPKyWA==
   dependencies:
     "@svgr/webpack" "^6.2.0"
     file-loader "^6.2.0"
