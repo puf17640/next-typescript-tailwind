@@ -1,4 +1,4 @@
 steps:
   - uses: ahmadnassri/action-dependabot-auto-merge@v2
     with:
-      github-token: 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
+      github-token: { { secrets.mytoken } }
